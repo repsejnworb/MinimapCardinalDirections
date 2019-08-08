@@ -9,6 +9,6 @@ CardinalDirectionEast:SetTextColor(1,0.875,0,0.625);
 CardinalDirectionEast:SetText("E");
 
 Minimap:CreateFontString("CardinalDirectionSouth","OVERLAY","NumberFontNormalSmall");
-CardinalDirectionEast:SetPoint("BOTTOM",0,0);
-CardinalDirectionEast:SetTextColor(1,0.875,0,0.625);
-CardinalDirectionEast:SetText("S");
+CardinalDirectionSouth:SetPoint("BOTTOM",0,0);
+CardinalDirectionSouth:SetTextColor(1,0.875,0,0.625);
+CardinalDirectionSouth:SetText("S");
