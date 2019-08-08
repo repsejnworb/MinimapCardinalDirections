@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: MinimapCardinalDirections v0.1
+## Version: 0.1
+## Author: Nra
+
+## Notes: Shows all cardinal directions on Minimap
+
+MinimapCardinalDirections.lua
